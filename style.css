@@ -29,12 +29,13 @@ div {
 
 #logo {
     height: 37px;
-    width: 210px;
+    width: 100%;
+    /*width: 210px;*/
 
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: red;
+    background-color: #ff0000;
 }
 
 .logo-text {
@@ -79,7 +80,7 @@ div {
 }
 
 #nav a:hover {
-    background-color: red;
+    background-color: #ff0000;
 }
 
 #icons ul {
