@@ -29,5 +29,5 @@ setInterval(() => {
         sec = "0" + sec
     }
 
-    document.getElementById("clock").innerHTML = day + "/" + month + "/" + year + " " + hour + ":" + min + ":" + sec + " UTC"
+    document.getElementById("date-clock").innerHTML = day + "/" + month + "/" + year + " " + hour + ":" + min + ":" + sec + " UTC"
 });
