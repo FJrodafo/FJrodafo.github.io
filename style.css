@@ -12,7 +12,7 @@ body {
 
 /*
 div {
-    border: 1px dashed lightblue;
+    border: 1px dashed white;
 }
 */
 
@@ -39,7 +39,7 @@ div {
 }
 
 .logo-text {
-    bottom: 6px;
+    bottom: 5px;
     position: relative;
 
     font-size: 30px;
