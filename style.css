@@ -35,11 +35,11 @@ div {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #ff0000;
+    background-color: #cd0000;
 }
 
 .logo-text {
-    bottom: 5px;
+    bottom: 6px;
     position: relative;
 
     font-size: 30px;
@@ -80,7 +80,7 @@ div {
 }
 
 #nav a:hover {
-    background-color: #ff0000;
+    background-color: #cd0000;
 }
 
 #icons ul {
