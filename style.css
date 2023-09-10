@@ -12,31 +12,25 @@ body {
     background-image: url(./Assets/Background.jpg);
 }
 
-/*
-div {
-    border: 1px dashed white;
-}
-*/
-
 #content {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
 
     display: flex;
     align-items: center;
     justify-content: center;
 
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 #logo {
-    height: 37px;
-    width: 100%;
-    /*width: 210px;*/
+    height: 40px;
+    width: 200px;
 
     display: flex;
     align-items: center;
     justify-content: center;
+
     background-color: #cd0000;
 }
 
@@ -66,8 +60,7 @@ div {
 }
 
 #nav {
-    padding-left: 20px;
-    padding-right: 70px;
+    padding-right: 40px;
 
     display: flex;
     align-items: center;
@@ -81,8 +74,16 @@ div {
     padding: 9px;
 }
 
+li {
+    list-style-type: none;
+}
+
 #nav a:hover {
     background-color: #cd0000;
+}
+
+a {
+    text-decoration: none;
 }
 
 #icons ul {
@@ -91,14 +92,6 @@ div {
     display: flex;
     align-items: center;
     justify-content: space-around;
-}
-
-li {
-    list-style-type: none;
-}
-
-a {
-    text-decoration: none;
 }
 
 img {
