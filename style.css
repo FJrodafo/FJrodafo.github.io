@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Be+Vietnam:800iGudea&display=swap');
-
 * {
     margin: 0;
     padding: 0;
@@ -34,7 +32,6 @@ body {
 }
 
 .logo-text {
-    bottom: 5px;
     position: relative;
 
     font-size: 30px;
