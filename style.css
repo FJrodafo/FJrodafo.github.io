@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Be Vietnam';
+    src: url(./Assets/Fonts/BeVietnam-BoldItalic.ttf);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -32,10 +37,10 @@ body {
 }
 
 .logo-text {
+    bottom: 5px;
     position: relative;
 
-    font-size: 30px;
-    font-style: italic;
+    font-size: 29px;
     font-family: 'Be Vietnam', sans-serif;
 
     user-select: none;
