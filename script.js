@@ -1,7 +1,7 @@
 setInterval(() => {
     let current = new Date()
     let day = current.getUTCDate()
-    let month = current.getUTCMonth()
+    let month = (current.getUTCMonth() + 1)
     let year = current.getUTCFullYear()
     let hour = current.getUTCHours()
     let min = current.getUTCMinutes()
