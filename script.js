@@ -12,9 +12,7 @@ setInterval(() => {
     }
 
     if (month < 10) {
-        month = "0" + (month + 1)
-    } else {
-        month = (month + 1)
+        month = "0" + month
     }
 
     if (hour < 10) {
