@@ -8,9 +8,5 @@
     <a href="https://github.com/sponsors/FJrodafo">sponsor</a>
   </samp>
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FJrodafo/FJrodafo/output/snk-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FJrodafo/FJrodafo/output/snk.svg" />
-    <img alt="snk" src="https://raw.githubusercontent.com/FJrodafo/FJrodafo/output/snk.svg" />
-  </picture>
+  <img alt="snk" src="https://raw.githubusercontent.com/FJrodafo/FJrodafo/output/ocean.gif" />
 </div>
