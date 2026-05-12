@@ -8,9 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
-- This CHANGELOG.md to track all notable changes to this project going forward.
-
-- GitHub Linguist configuration.
+- ...
 
 ### Changed
 
